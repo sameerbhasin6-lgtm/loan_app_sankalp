@@ -8,7 +8,7 @@ import re
 # --- 1. File Paths and Data Loading ---
 
 # 🛑 FILE 1: Original Loan Data (Used for all risk calculations and visualizations)
-LOAN_DATA_FILE = 'C:/Users/sinha/Downloads/MA Solved/loan_default.xlsx'
+LOAN_DATA_FILE = '/Users/sameerbhasin/Downloads'
 
 # AUC Value (extracted from the 'Test and Score' results)
 auc_value = 0.655 
